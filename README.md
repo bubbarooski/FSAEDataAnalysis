@@ -13,5 +13,5 @@ Formula SAE (or FSAE) is student competition in which schools must build a formu
 </p>
 
 <p align="center">
-(not me in the above photo unfotunately)
+(not me in the above photo unfortunately)
 </p>
